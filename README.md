@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Data Engineering, Cloud Computing, and AI-powered Software Development.**
 
-- 👨‍💻 All of my projects are available at [https://renaud-ist.github.io/](https://renaud-ist.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/renaud-ist](https://github.com/renaud-ist)
 
 - 💬 Ask me about **Information Systems • Systems Analysis & Design • Database Management • Software Development • IT Project Management • Business Process Analysis • Digital Transformation**
 
